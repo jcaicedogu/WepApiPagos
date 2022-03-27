@@ -69,3 +69,18 @@ Base de datos Sql server.
 ### Ejecutando las pruebas ⚙️
 Las pruebas fueron realizadas con el cliente Http PostMan.
 
+## Diseño Base de Datos
+La base de datos  esta conformada con las siguentas tablas:
+Pedidos
+Pedidodtl
+Facturas
+facturadtl
+Procedimentos Almacenados:
+Usp_consultarpedido
+Usp_Creardtlpedido
+Usp_CrearFactura
+Usp_CrearPedido
+Tipo de dato tipo tabla:
+listDetalle
+
+
