@@ -70,6 +70,7 @@ Base de datos Sql server.
 Las pruebas fueron realizadas con el cliente Http PostMan.
 
 ## Diseño Base de Datos
+Nombre bades de datos dbpagos
 La base de datos  esta conformada con las siguentas tablas:
 Pedidos
 Pedidodtl
